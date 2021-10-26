@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+			<h1><center>WELCOME</center><h1>
+<html>
+<body>
+
+
+			<H2>Hello Everyone !
+            <br><br><br>
+            <hr>
+            
+            <br><p>This is my website</p></center>
+            
+            <font color="blue">
+            <p><i>Nur Lily Farizah Binti Abdul Halim
+            <font color="blue">
+            <p>Universiti Teknologi Mara</p>
+            <font color="blue">
+            <p>2019205364</p>
+            
+            <font color="black">
+            <p><center><b>Have A Nice Day</center></p></b>
