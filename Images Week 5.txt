@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<title>My Personal Website</title>
+</head>
+<body>
+ 		<a href="https://www.uitm.edu.my"><img src="images/uitm.png"></a>
+		<a href="https://www.uitm.edu.my"><img
+src="https://www.uitm.edu.my/images/images/logo/logoUiTMUnleashingPotential2.png"></a>
+			
+            <h1>Home Page</h1>
+            <br><br>
+            <p>Welcome To My Website
+            <p>Personal Profile
+            <p>My Biodata
+            <br><br>
+            <a href="index.html">Home</a>
+            <a href="biodata.html">Personal</a>
+            <a href="contact.html">Contact<a/>
+            <hr>
+            <p>How To Contact</p>
+            <a href="mailto:lilyfarizah7@gmail.com">Email</a>
+            <a href="https://twitter.com/lilyfarizah">Twitter</a>
+            
+            <a href="https://www.facebook.com"><img src="https://www.facebook.com/UiTMSPMerbok/photos/4444338288983450"></a>
+            <a href="https://www.facebook.com"><img src="https://www.facebook.com/library.uitm.kedah/photos/5705667089473688"></a>
+            <a href="https://www.facebook.com"><img src="https://www.facebook.com/UiTMSPMerbok/photos/3624767220940565"></a>
+            <a href="https://www.facebook.com"><img src="https://www.facebook.com/UiTMSPMerbok/photos/3590807427669878"></a>
+            <a href="https://www.facebook.com"><img src="https://www.facebook.com/UiTMSPMerbok/photos/a.350000498417270/1569350953148879"></a>
+            
+			 
+
+</body>
+</html>
